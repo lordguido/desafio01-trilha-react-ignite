@@ -4,7 +4,7 @@
   <img src="./assets/logo-desafio01.png" alt="Logo">
 </figure>
 <div>
-  <h2>Abaut the challenge</h2>
+  <h2>About the challenge</h2>
   <p>In this challenge, an application was created to train the main concepts of ReactJS.</p>
   <p>This application has as the main objective allow the user to create activities to do.</p>
   
